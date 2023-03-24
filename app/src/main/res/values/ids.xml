@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etName" type="id" />
+    <item name="etDescription" type="id"/>
+    <item name="spCategory" type="id" />
+</resources>
