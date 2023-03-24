@@ -1,15 +1,4 @@
-# Házi feladat specifikáció
 
-Információk [itt](https://viauac00.github.io/laborok/hf)
-
-## Mobil- és webes szoftverek
-### 2022 10 16
-### Könyvmoly
-### Koppa Dániel - G36RDE
-### koppadani@freemail.hu
-### Laborvezető: Kapitány Erik
-
-## Bemutatás
 
 A házifeladatomat egy középiskolai barátom ötlete szülte. Mivel ő egy igazán nagy könyvmoly volt, a noteszébe jegyzetelte ki, hogy milyen könyveket akar még elolvasni, és, hogy amiket megkezdett azoknál hányadik oldalon tart. Ennek a nyilvántartására, illetve digitális funkciókkal való bővítése az alkalmazás célja.
 
